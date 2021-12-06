@@ -11,6 +11,4 @@ I&#39;m Fidalgo, a 26 year old self-taught Javascript Developer, living in Leice
           first job and moved to UK. I quickly improved my Javascript skills
           and transitioned to a Full Stack position.
 
-Currently I'm at Prolific as a Frontend Engineer.
-
 I always want to learn more and do more. I'm also a firm believer that we should never settle. I'm hard working, super curious, passionate, committed and a fast learner!
