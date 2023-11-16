@@ -2,7 +2,7 @@
 
 [fidalgo.dev](https://fidalgo.dev/)
 
-I&#39;m Fidalgo, a 27 year old self-taught Javascript Developer living in Leicester and currently working at [Prolific](https://prolific.co/) as a Frontend Engineer.
+I&#39;m Fidalgo, a 28 year old self-taught Javascript Developer living in Leicester and currently working at [Prolific](https://prolific.co/) as a Frontend Engineer.
 
  In October 2018 I decided it was time for a change, so I started to
           study Javascript before going into work. I quickly started to love
